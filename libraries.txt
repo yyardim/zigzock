@@ -1,1 +1,0 @@
-JSONPlaceholder: Fake online REST API for Testing & Prototyping. 

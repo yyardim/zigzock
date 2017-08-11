@@ -1,0 +1,11 @@
+Comment Out:    Ctrl+K+C
+Uncomment:      Ctrl+K+U
+Terminal:       Ctrl+`
+
+To Run the app:
+>npm run build
+
+or
+
+>ng build
+>node server.js

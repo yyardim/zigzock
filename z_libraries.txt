@@ -1,0 +1,11 @@
+JSONPlaceholder     Fake online REST API for Testing & Prototyping. 
+json-server         Full Fake REST API
+path                node.js module that provide utilities for working with file and directory paths.
+body-parser         Required for POST requests, to parse body, via express
+morgan              HTTP request logger middleware for node.js
+serve-favicon       node.js middleware for serving favicon
+errorhandler        development-only error handler middleware
+express-session     node.js module that creates session that is saved on the server while sessionID is saved in a cookie
+csurf               node.js CSRF (Cross-site request forgery) protection middleware - requires a session middleware
+
+
